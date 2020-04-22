@@ -6,6 +6,10 @@
 Welcome to giotto-time's API reference!
 ========================================
 
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+
 :mod:`gtime.causality`: Causality Tests
 ============================================
 
